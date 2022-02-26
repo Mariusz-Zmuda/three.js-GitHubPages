@@ -1,6 +1,6 @@
-# Scrollable 3D Animation with Three.js
+# Three.js page animation.
 
-## Usage
+# Instructions:
 
 ```
 git clone <this-repo>
